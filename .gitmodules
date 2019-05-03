@@ -1,0 +1,3 @@
+[submodule "cristaloleg.github.io"]
+	path = cristaloleg.github.io
+	url = git@github.com:cristaloleg/cristaloleg.github.io.git
